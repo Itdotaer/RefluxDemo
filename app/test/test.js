@@ -6,7 +6,7 @@ var ReactDOM = require('react-dom');
 var TestComponent = React.createClass({
     render: function(){
         return (
-            <div className="test">Test Comonent</div>
+            <div className="test">Info:Reflux Demo</div>
         );
     }
 });
